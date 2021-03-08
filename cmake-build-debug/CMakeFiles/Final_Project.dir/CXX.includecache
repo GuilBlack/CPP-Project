@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Car.cpp
+Car.h
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Car.h
+
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Car.h
+string
+-
+chrono
+-
+iostream
+-
+thread
+-
+
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Track.cpp
+Track.h
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Track.h
+
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Track.h
+iostream
+-
+chrono
+-
+ctime
+-
+time.h
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/time.h
+Car.h
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Car.h
+string
+-
+thread
+-
+
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/main.cpp
+Track.h
+D:/Documents/Asc 2 course 2019-2020/2CCPP/Final Project/Track.h
+
