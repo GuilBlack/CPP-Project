@@ -1,6 +1,6 @@
 # CPP-Project
 
-It's a simple console simulation of cars racing on a circuit. You will get to manage 2 cars and tweak them during the race so that they will have less chance to breakdown. The information will be presented like this:
+It's a simple c++ console app that simulates cars racing on a circuit. You will get to manage 2 cars and tweak them during the race so that they will have less chance to breakdown. The information will be presented like this:
 
 ```
 ---------------------
